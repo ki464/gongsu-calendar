@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gongsu-calendar/static/css/main.b6b42ec6.css",
+    "main.js": "/gongsu-calendar/static/js/main.d305f9d7.js",
+    "static/js/453.77fbe1db.chunk.js": "/gongsu-calendar/static/js/453.77fbe1db.chunk.js",
+    "index.html": "/gongsu-calendar/index.html",
+    "main.b6b42ec6.css.map": "/gongsu-calendar/static/css/main.b6b42ec6.css.map",
+    "main.d305f9d7.js.map": "/gongsu-calendar/static/js/main.d305f9d7.js.map",
+    "453.77fbe1db.chunk.js.map": "/gongsu-calendar/static/js/453.77fbe1db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6b42ec6.css",
+    "static/js/main.d305f9d7.js"
+  ]
+}
