@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gongsu-calendar/static/css/main.b6b42ec6.css",
-    "main.js": "/gongsu-calendar/static/js/main.85c20386.js",
-    "static/js/453.77fbe1db.chunk.js": "/gongsu-calendar/static/js/453.77fbe1db.chunk.js",
-    "index.html": "/gongsu-calendar/index.html",
-    "main.b6b42ec6.css.map": "/gongsu-calendar/static/css/main.b6b42ec6.css.map",
-    "main.85c20386.js.map": "/gongsu-calendar/static/js/main.85c20386.js.map",
-    "453.77fbe1db.chunk.js.map": "/gongsu-calendar/static/js/453.77fbe1db.chunk.js.map"
+    "main.css": "/static/css/main.b6b42ec6.css",
+    "main.js": "/static/js/main.79524807.js",
+    "static/js/453.69f3745b.chunk.js": "/static/js/453.69f3745b.chunk.js",
+    "index.html": "/index.html",
+    "main.b6b42ec6.css.map": "/static/css/main.b6b42ec6.css.map",
+    "main.79524807.js.map": "/static/js/main.79524807.js.map",
+    "453.69f3745b.chunk.js.map": "/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6b42ec6.css",
-    "static/js/main.85c20386.js"
+    "static/js/main.79524807.js"
   ]
 }
